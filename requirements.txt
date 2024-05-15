@@ -1,4 +1,9 @@
 google.generativeai
-PyPDF2
-langchain
-langchain_google_genai
+streamlit
+PyPDFLoader
+RecursiveCharacterTextSplitter
+HuggingFaceEmbeddings
+Chroma
+PromptTemplate
+RunnablePassthrough
+ChatGoogleGenerativeAI
